@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TGoodwin5/Pipeline-Test/_apis/build/status/TylerGoodwin1996.pipelines-java?branchName=master)](https://dev.azure.com/TGoodwin5/Pipeline-Test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
